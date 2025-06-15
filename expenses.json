@@ -1,0 +1,26 @@
+[
+    {
+        "date": "25-06-15",
+        "category": "food",
+        "amount": 1000.0,
+        "note": "food was good"
+    },
+    {
+        "date": "2025-01-22",
+        "category": "travel",
+        "amount": 1001.0,
+        "note": "great"
+    },
+    {
+        "date": "2025-10-10",
+        "category": "food",
+        "amount": 15550.0,
+        "note": "amazing"
+    },
+    {
+        "date": "2025-01-01",
+        "category": "food",
+        "amount": 100.0,
+        "note": "good"
+    }
+]
